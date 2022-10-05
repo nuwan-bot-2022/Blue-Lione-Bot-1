@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94706540311'] //ur owner number
-global.ownername = "nipuna rangana" //ur owner name
-global.ytname = "YT: 𝐂𝐈𝐁𝐄𝐑 𝐓𝐄𝐂𝐇" //ur yt chanel name
-global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
+global.vcardowner = ['+94766043171'] //ur owner number
+global.ownername = "𝙺𝙸𝙽𝙶 𝙰𝙻𝚅𝙸𝙽" //ur owner name
+global.ytname = "YT: 𝙽𝙾 𝚈𝚃 𝙲𝙷𝙰𝙽𝙽𝙴𝙻" //ur yt chanel name
+global.socialm = "GitHub: 𝚗𝚞𝚠𝚊𝚗-𝚋𝚘𝚝-2022" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy
-global.owner = ['94706540311']
-global.ownertag = '94706540311' //ur tag number
-global.botname = '📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶' //ur bot name
+global.owner = ['+94766043171']
+global.ownertag = '+94766043171' //ur tag number
+global.botname = '🖤 𝙺𝙸𝙽𝙶 𝙰𝙻𝚅𝙸𝙽 𝙱𝙾𝚃 🖤' //ur bot name
 global.linkz = "https://youtu.be/3J9-8U8St3U" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/3J9-8U8St3U" //ur website to be displayed
 global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot' //script link
-global.reactmoji = "😘" //ur menu react emoji
+global.reactmoji = "👤" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark packname
-global.author = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark author
+global.packname = "𝙺𝙸𝙽𝙶 𝙰𝙻𝚅𝙸𝙽 𝙱𝙾𝚃" //ur sticker watermark packname
+global.author = "𝙺𝙸𝙽𝙶 𝙰𝙻𝚅𝙸𝙽 𝙱𝙾𝚃" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['94714188730'] //ur premium numbers
+global.premium = ['+94766043171'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
