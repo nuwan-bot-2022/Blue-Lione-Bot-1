@@ -68,7 +68,7 @@ global.linkz = "https://youtu.be/3J9-8U8St3U" //your theme url which will be dis
 global.websitex = "https://youtu.be/3J9-8U8St3U" //ur website to be displayed
 global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot' //script link
 global.reactmoji = "👤" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
+global.themeemoji = "🇱🇰" //ur theme emoji
 global.packname = "𝙺𝙸𝙽𝙶 𝙰𝙻𝚅𝙸𝙽 𝙱𝙾𝚃" //ur sticker watermark packname
 global.author = "𝙺𝙸𝙽𝙶 𝙰𝙻𝚅𝙸𝙽 𝙱𝙾𝚃" //ur sticker watermark author
 
